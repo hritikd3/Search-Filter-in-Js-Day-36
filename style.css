@@ -1,0 +1,19 @@
+#content-box , div{
+  padding: 1.1rem;
+  /* margin: 2rem; */
+}
+
+input{
+  color:red;
+  border: 2px solid pink;
+  padding: 1rem;
+  margin: 0.80rem;
+  font-size: 19px;
+  font-weight: bold;
+
+}
+.card{
+  border: 1px solid rgb(245, 148, 164);
+  margin: 0.2rem;
+  padding: 12px;
+}
